@@ -2,7 +2,7 @@
 title: "Markdown Test"
 author: "Lorenz"
 date: "3/18/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
